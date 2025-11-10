@@ -1,5 +1,4 @@
-package Condicoes;
-import java.lang.classfile.instruction.SwitchCase;
+package NivelBasico.Condicoes;
 import java.util.Scanner;
 
 public class EstudoSwitchCases {
