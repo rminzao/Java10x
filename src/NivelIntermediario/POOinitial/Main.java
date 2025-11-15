@@ -4,6 +4,7 @@ import NivelIntermediario.POOinitial.clans.Haruno;
 import NivelIntermediario.POOinitial.clans.Hyuga;
 import NivelIntermediario.POOinitial.clans.Uchiha;
 import NivelIntermediario.POOinitial.clans.Uzumaki;
+import NivelIntermediario.POOinitial.filhos.Boruto;
 
 public class Main {
     public static void main(String[] args) {
@@ -34,5 +35,16 @@ public class Main {
         Hinata.idade = 15;
         Hinata.aldeia = "Aldeia da folha";
         Hinata.ZoiDoCapiroto();
+
+        //obejto5
+        Boruto Boruto = new Boruto();
+        Boruto.nome = "Boruto Hyuga Uzumaki";
+        Boruto.idade = 12;
+        Boruto.aldeia = "Aldeia da folha";
+
+        Boruto.ModoSabioAtivado();
+        Boruto.AtivarJougan();
+        Boruto.AtivarJougan();
+
     }
 }
