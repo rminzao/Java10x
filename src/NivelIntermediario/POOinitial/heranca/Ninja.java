@@ -1,4 +1,4 @@
-package NivelIntermediario.POOinitial;
+package NivelIntermediario.POOinitial.heranca;
 
 public class Ninja {
 

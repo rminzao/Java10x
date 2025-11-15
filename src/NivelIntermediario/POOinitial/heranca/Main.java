@@ -1,10 +1,10 @@
-package NivelIntermediario.POOinitial;
+package NivelIntermediario.POOinitial.heranca;
 
-import NivelIntermediario.POOinitial.clans.Haruno;
-import NivelIntermediario.POOinitial.clans.Hyuga;
-import NivelIntermediario.POOinitial.clans.Uchiha;
-import NivelIntermediario.POOinitial.clans.Uzumaki;
-import NivelIntermediario.POOinitial.filhos.Boruto;
+import NivelIntermediario.POOinitial.heranca.clans.Haruno;
+import NivelIntermediario.POOinitial.heranca.clans.Hyuga;
+import NivelIntermediario.POOinitial.heranca.clans.Uchiha;
+import NivelIntermediario.POOinitial.heranca.clans.Uzumaki;
+import NivelIntermediario.POOinitial.heranca.filhos.Boruto;
 
 public class Main {
     public static void main(String[] args) {

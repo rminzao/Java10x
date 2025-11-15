@@ -1,6 +1,6 @@
-package NivelIntermediario.POOinitial.clans;
+package NivelIntermediario.POOinitial.heranca.clans;
 
-import NivelIntermediario.POOinitial.Ninja;
+import NivelIntermediario.POOinitial.heranca.Ninja;
 
 public class Hyuga extends Ninja {
 

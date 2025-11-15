@@ -1,4 +1,4 @@
-package NivelIntermediario.POOinitial.interfaces;
+package NivelIntermediario.POOinitial.heranca.interfaces;
 
 public interface HyugaUzumaki {
 
