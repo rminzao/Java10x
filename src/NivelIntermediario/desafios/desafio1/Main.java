@@ -1,6 +1,6 @@
-package NivelIntermediario.desafios;
+package NivelIntermediario.desafios.desafio1;
 
-import NivelIntermediario.desafios.clans.Uchiha;
+import NivelIntermediario.desafios.desafio1.clans.Uchiha;
 import java.util.Scanner;
 
 public class Main {

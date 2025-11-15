@@ -1,4 +1,4 @@
-package NivelIntermediario.desafios;
+package NivelIntermediario.desafios.desafio1;
 
 
 public class Ninja {

@@ -1,6 +1,6 @@
-package NivelIntermediario.desafios.clans;
+package NivelIntermediario.desafios.desafio1.clans;
 
-import NivelIntermediario.desafios.Ninja;
+import NivelIntermediario.desafios.desafio1.Ninja;
 
 public class Uchiha extends Ninja {
 
