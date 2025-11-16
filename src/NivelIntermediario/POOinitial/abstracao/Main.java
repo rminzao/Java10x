@@ -7,13 +7,21 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Uzumaki Naruto = new Uzumaki();
-        Naruto.tacarShuriken();
+        //obj ninja nao da pra ser criado
 
+
+        //obj uzumaki
+        Uzumaki Naruto = new Uzumaki();
+        Naruto.nome = "Narutao";
+        Naruto.habilidadeEspecial();
+        Naruto.estrategiaDeBatalha();
+
+        // obj uchiha
         Uchiha Sasuke = new Uchiha();
         Sasuke.nome = "Sasuke Uchiha";
         Sasuke.nomeDoNinja();
-        Sasuke.tacarKunai();
+        Sasuke.habilidadeEspecial();
+        /*Sasuke.tacarKunai();*/
 
     }
 }
