@@ -1,10 +1,19 @@
-package NivelIntermediario.POOinitial.abstracao;
+package NivelIntermediario.POOinitial.polimorfismo.abstracao;
 
 public abstract class Ninja implements estrategiaDeBatalha {
 
     protected String nome;
-    String aldeia;
-    int idade;
+    protected String aldeia;
+    protected int idade;
+
+    public Ninja() {
+    }
+
+    public Ninja(String nome, String aldeia, int idade) {
+        this.nome = nome;
+        this.aldeia = aldeia;
+        this.idade = idade;
+    }
 
     // metodos abstratos
     public abstract void nomeDoNinja();

@@ -1,4 +1,4 @@
-package NivelIntermediario.POOinitial.abstracao;
+package NivelIntermediario.POOinitial.polimorfismo.abstracao;
 
 public interface estrategiaDeBatalha {
 

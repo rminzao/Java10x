@@ -1,7 +1,6 @@
-package NivelIntermediario.POOinitial.abstracao.clans;
+package NivelIntermediario.POOinitial.polimorfismo.abstracao.clans;
 
-import NivelIntermediario.POOinitial.abstracao.Ninja;
-import NivelIntermediario.POOinitial.abstracao.NinjaInterface;
+import NivelIntermediario.POOinitial.polimorfismo.abstracao.Ninja;
 
 public class Uzumaki extends Ninja {
 
