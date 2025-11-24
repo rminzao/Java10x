@@ -17,13 +17,13 @@ public class Main {
         Naruto.habilidadeEspecial();
         Naruto.estrategiaDeBatalha();
 
-        // obj uchiha
+        /*// obj uchiha
         Uchiha Sasuke = new Uchiha();
-        Sasuke.nome = "Sasuke Uchiha";
+        Sasuke.nome = "Sasuke Uchiha";*/
 
-        Sasuke.nomeDoNinja();
+        /*Sasuke.nomeDoNinja();
         Sasuke.habilidadeEspecial();
-        /*Sasuke.tacarKunai();*/
+        *//*Sasuke.tacarKunai();*/
 
         // obj uchiha 2
         Uchiha Itachi = new Uchiha("Itachi Uchiha", "Aldeia da folha", 27);

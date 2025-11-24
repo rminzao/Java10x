@@ -13,4 +13,14 @@ public class Uzumaki extends Ninja {
     public void nomeDoNinja() {
         System.out.println("Meu nome é: " + nome);
     }
+
+    @Override
+    public void inteligenciaDeCombate() {
+
+    }
+
+    @Override
+    public void inteligenciaDeCombate(int qi) {
+
+    }
 }
