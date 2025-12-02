@@ -13,7 +13,7 @@ public abstract class Ninja implements estrategiaDeBatalha {
         protected int idade;
         protected int numeroDeMissoesConcluidas;
         NivelNinja rank;
-
+        double altura;
 
         // Metodo existente, primeiro metodo
         public Ninja(String nome, String aldeia, int idade) {
@@ -31,7 +31,11 @@ public abstract class Ninja implements estrategiaDeBatalha {
         }
 
         public Ninja() {
+        }
 
+        // TODO NINJA VAI FAZER OBRIGATORIAMENTE
+        final void tacarKunai(){
+            System.out.println("Eu sou um metodo da classe mae");
         }
 
         public void habilidadeEspecial() {
@@ -52,5 +56,11 @@ public abstract class Ninja implements estrategiaDeBatalha {
             } else {
                 System.out.println("Seu QI é: " + qi + " e voce precisa treinar mais suas habilidades");
             }
+        }
+
+        // referencia de memoria sempre tem q ter um Override
+        @Override
+        public String toString(){
+            return "Metodo toString";
         }
 }

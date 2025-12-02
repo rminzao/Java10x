@@ -5,7 +5,7 @@ import NivelIntermediario.POOinitial.polimorfismo.abstracao.clans.Uchiha;
 
 public class Main {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         Uchiha madara = new Uchiha("Madara Uchiha", "Aldeia da Folha", 45, 900, NivelNinja.KAGE);
         madara.habilidadeEspecial();
