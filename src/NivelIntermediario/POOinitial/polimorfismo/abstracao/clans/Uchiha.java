@@ -1,7 +1,7 @@
 package NivelIntermediario.POOinitial.polimorfismo.abstracao.clans;
 
 import NivelIntermediario.IntermediarioDoIntermediario.OverloadConstrutores.NivelNinja;
-import NivelIntermediario.POOinitial.herancaMultiplas.SharinganInterface;
+import NivelIntermediario.IntermediarioDoIntermediario.SharinganInterface;
 import NivelIntermediario.IntermediarioDoIntermediario.Ninja;
 
 public class Uchiha extends Ninja implements SharinganInterface {

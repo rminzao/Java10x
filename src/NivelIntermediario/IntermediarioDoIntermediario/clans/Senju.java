@@ -1,4 +1,4 @@
-package NivelIntermediario.POOinitial.construtores.clans;
+package NivelIntermediario.IntermediarioDoIntermediario.clans;
 
 import NivelIntermediario.POOinitial.construtores.Hokages;
 

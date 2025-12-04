@@ -1,6 +1,6 @@
 package NivelIntermediario.POOinitial.construtores;
 
-import NivelIntermediario.POOinitial.construtores.clans.Senju;
+import NivelIntermediario.IntermediarioDoIntermediario.clans.Senju;
 
 public class Main {
     public static void main(String[] args) {

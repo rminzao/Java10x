@@ -1,7 +1,7 @@
 package NivelIntermediario.POOinitial.polimorfismo.abstracao.clans;
 
 import NivelIntermediario.POOinitial.herancaMultiplas.AnbuInteface;
-import NivelIntermediario.POOinitial.herancaMultiplas.SharinganInterface;
+import NivelIntermediario.IntermediarioDoIntermediario.SharinganInterface;
 import NivelIntermediario.POOinitial.polimorfismo.abstracao.Ninja;
 
 public class Hatake extends Ninja implements SharinganInterface, AnbuInteface {

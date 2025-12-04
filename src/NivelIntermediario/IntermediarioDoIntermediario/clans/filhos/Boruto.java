@@ -1,6 +1,6 @@
-package NivelIntermediario.POOinitial.heranca.filhos;
+package NivelIntermediario.IntermediarioDoIntermediario.clans.filhos;
 
-import NivelIntermediario.POOinitial.heranca.clans.Uzumaki;
+import NivelIntermediario.IntermediarioDoIntermediario.clans.Uzumaki;
 import NivelIntermediario.POOinitial.heranca.interfaces.HyugaUzumaki;
 
 public class Boruto extends Uzumaki implements HyugaUzumaki {

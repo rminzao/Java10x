@@ -1,4 +1,4 @@
-package NivelIntermediario.POOinitial.heranca.clans;
+package NivelIntermediario.IntermediarioDoIntermediario.clans;
 
 import NivelIntermediario.POOinitial.heranca.Ninja;
 
